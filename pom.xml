@@ -10,6 +10,11 @@
     <packaging>pom</packaging>
     <modules>
         <module>chain-of-responsibility</module>
+        <module>adapter-pattern</module>
+        <module>singleton</module>
+        <module>command</module>
+        <module>simple-factory</module>
+        <module>decorator</module>
     </modules>
 
     <properties>
